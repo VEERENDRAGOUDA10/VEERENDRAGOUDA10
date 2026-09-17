@@ -27,6 +27,20 @@
 </p>
 
 <h2 align="center">🚀 Featured Work</h2>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VEERENDRAGOUDA10&show_icons=true&hide_border=true&theme=tokyonight&title_color=A855F7&icon_color=A855F7" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEERENDRAGOUDA10&layout=compact&hide_border=true&theme=tokyonight&title_color=A855F7" height="165"/>
+
+</div>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=VEERENDRAGOUDA10&theme=tokyonight&hide_border=true" />
+
+</div>
 
 <table align="center">
 <tr>
