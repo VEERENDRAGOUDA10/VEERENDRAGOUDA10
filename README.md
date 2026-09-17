@@ -26,7 +26,7 @@
   🌐 React
 </p>
 
-<h2> align="center">🚀 Featured Work</h2>
+<h2 align="center">🚀 Featured Work</h2>
 
 <table align="center">
 <tr>
